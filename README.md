@@ -10,10 +10,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I build systems that sit at the intersection of **AI, backend engineering, and data**
-- 🧠 Currently exploring **RAG pipelines, MCP servers, and federated learning**
-- ⚙️ I like projects with real benchmarks, not just demos — see the throughput numbers below
-- 🌱 Always shipping something new — check my pinned repos for the latest
+- 🧠 Building AI systems, full-stack applications, and data engineering pipelines
+- ⚡ Obsessed with making backend systems fast and reliable at scale
+- 🛠️ Working across AI, distributed systems, and data engineering
+- 🔥 Constantly building. Pinned repos below
 
 ---
 
